@@ -29,7 +29,7 @@ const FooterComponent = () => {
                   className="w-[15px] custom-icon-show mt-1"
                 />
                 <span className=" font-avo flex-1">
-                  60 Đào Duy Anh, Phường 9, Q. Phú Nhuận, TP HCM
+                  60 Đào Duy Anh, Phường 9, TP HCM
                 </span>
               </div>
               <div className="flex flex-wrap gap-10 lg:gap-0 lg:justify-between">
@@ -216,7 +216,7 @@ const FooterComponent = () => {
                 className="w-[15px] custom-icon-show mt-1"
               />
               <span className=" font-avo flex-1">
-                60 Đào Duy Anh, Phường 9, Q. Phú Nhuận, TP HCM
+                60 Đào Duy Anh, Phường 9, TP HCM
               </span>
             </div>
             <div className="flex flex-wrap gap-3 lg:justify-between">
